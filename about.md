@@ -17,6 +17,6 @@ I am (in no particular order):
 * Awkward young man in the family who always wishes the family gathering to end sooner
 * Binary artist, and eternal dreamer
 
-I aspire to be someone who made positive impacts for mankind and particularly for Indonesia, while actually make ends meet with that dream. How can life be well worth living without challenges?
+I write in both English and Bahasa Indonesia. I aspire to be someone who made positive impacts for mankind and particularly for Indonesia, while actually make ends meet with that dream. How can life be well worth living without challenges?
 
 Enjoy my writings.

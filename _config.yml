@@ -16,7 +16,7 @@
 title: Ruang Aksara Hampa
 email: wiratmika@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dan selamanya menyelami peliknya lautan pemikiran yang ganjil, mungkin sendiri.
+  Dan tentang selamanya menyelami peliknya lautan pemikiran yang ganjil, mungkin sendiri.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.wiratmika.me" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: wiratmika
