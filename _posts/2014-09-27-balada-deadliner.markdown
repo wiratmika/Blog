@@ -6,6 +6,7 @@ date: '2014-09-27 05:00:00'
 tags:
 - bullshit-rants
 - dalam-bahasa-indonesia
+comments: true
 ---
 
 Bangun tidur keingetan PR  
