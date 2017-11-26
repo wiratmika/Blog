@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (My) Surviving Commuting, Part One
-image: "/content/images/2015/09/IMG_20150713_093745717.jpg"
+image: "/assets/images/commuting.jpg"
 date: '2015-09-05 04:41:26'
 tags:
 - misguiding-guides
