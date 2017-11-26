@@ -6,6 +6,7 @@ date: '2015-07-26 08:34:17'
 tags:
 - misguiding-guides
 - in-english
+comments: true
 ---
 
 Place I had worked in might not be glamorous and I am pretty sure you never heard of it, but here is a few things that I believe will apply in any of software or technology startup:

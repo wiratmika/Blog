@@ -6,6 +6,7 @@ date: '2015-08-12 11:23:44'
 tags:
 - dalam-bahasa-indonesia
 - paper-cup
+comments: true
 ---
 
 *Dear X,*

@@ -6,6 +6,7 @@ date: '2015-08-11 15:03:35'
 tags:
 - bullshit-rants
 - dalam-bahasa-indonesia
+comments: true
 ---
 
 Dear Kemkominfo,

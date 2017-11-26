@@ -6,6 +6,7 @@ tags:
 - dalam-bahasa-indonesia
 - paper-cup
 - for-no-one
+comments: true
 ---
 
 Iya, kebahagiaan ada di ujung sana  

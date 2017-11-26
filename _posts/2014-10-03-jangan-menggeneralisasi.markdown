@@ -5,6 +5,7 @@ date: '2014-10-03 05:00:00'
 tags:
 - bullshit-rants
 - dalam-bahasa-indonesia
+comments: true
 ---
 
 Ilmu ekonomi, belum tentu suka menabung  
