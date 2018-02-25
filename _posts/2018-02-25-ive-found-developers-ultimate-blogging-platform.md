@@ -37,6 +37,6 @@ Here's a few reasons why I believe it's a good blogging platform that is better 
 
 3. Jekyll is, by design, file-based, which means it can be easily tracked with a version control (and with it, advanced file versioning). Image upload is also rather easy, and in fact, you don't have to to: just put the image in asset folder and link it from the Markdown content.
 
-4. Extremely easy GitHub Pages integration. In another words, you can have free, custom-domain hosting for life just by putting your content on a GitHub repo. GitHub will even automatically generate the site for you with every commit you push. This is a technical advantage that simply no other solutions could ever provide.
+4. Extremely easy GitHub Pages integration. In another words, you can have free, custom-domain hosting for life just by putting your content on a GitHub repo. **GitHub will even automatically generate the site for you with every commit you push**. This is a technical advantage that simply no other solutions could ever provide.
 
 While some might not like its Ruby-based environment or admittedly high learning curve for those not who are not technically-inclined, those are not the case for me. Until I decided to write something more meaningful and publish it on Medium, I'll keep this personal blog alive with Jekyll for days to come.
