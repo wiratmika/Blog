@@ -17,7 +17,7 @@ I've tried Wordpress when it was _the_ go-to platform if you want to create a bl
 
 I've tried Tumblr when it was one of the coolest things online (it maybe still is today, although now it serves a more niche segment). Still, there was something that I felt is quite not right, perhaps it's because I'm using it in a wrong way. At the end of the day, I'm not convinced to commit using it full-time.
 
-I once considered to use Medium, but I felt like my writing are not the ones suited for Medium-caliber publishing. I just want to babble around, not caring how people would react or racing for claps and highlights. I've seen some poor Medium writings, and they quite offended me because I feel how out of place they are. Just like how Quora is now beginning to be filled with homework questions.
+I once considered to use Medium, but it feels more like a social media-based publishing platform. It feels like my writing are not the ones suited for it. I just want to babble around, not caring how people would react or racing for claps and highlights. I've seen some poor Medium writings, and they quite offended me because I feel how out of place they are. Just like how Quora is now beginning to be filled with homework questions.
 
 For a while I've decided to stick with Ghost, a platform from one of the former lead at Wordpress who thought that it was the way of how a blogging platform should be from the get-go. Out of all that I've used, I prefer Ghost for its ridiculously minimal yet usable interface, straightforwardness, and ease of use. Using Markdown, it was as if its only purpose of existence is to write and publish blogs or longforms.
 
