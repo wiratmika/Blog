@@ -18,16 +18,16 @@ email: wiratmika@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dan tentang selamanya menyelami peliknya lautan pemikiran yang ganjil, mungkin sendiri.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.wiratmika.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "//blog.wiratmika.me" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: wiratmika
-github_username:  wiratmika
+github_username: wiratmika
 social_link: instagram
 social_username: vvnn.q
 
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: red
+theme_color: blue
 plugins:
   - jekyll-feed
 
