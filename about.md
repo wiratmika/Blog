@@ -4,19 +4,8 @@ title: Hello
 permalink: /about/
 ---
 
-This is a personal blog of [Wiratmika](//wiratmika.me). I realized that the best way to eternalize moments and thoughts at certain point of our lives is to contemplate them in writings. Everything written here is mostly unmoderated version of rants or whatever going on my mind.
+Hi, my name is Wiratmika. In case you're wondering, yes, that's only a single word in my birth certificate.
 
-I am (in no particular order):
+I'm a self-proclaimed geek, a hardcore rationalist who likes to call myself a "binary artist", which actually is just a niftier term for "programmer". I occasionally drown myself in an eclectic mix of stuffs, such as playing guitar, consulting SMEs for their tech needs, wondering what life will be like if our world was engaged in a nuclear warfare, and other tidbits. People never believe me when I tell them I'm an introvert: I am really that quirky man in the family who always wishes the family gathering to end sooner.
 
-* Geek by design
-* Eccentric rationalist
-* Hardcore procrastinator
-* Avid deadpan, pun, and sarcastic humorist
-* Fan of highly-eclectic mix of culture (primarily Indonesian indie music, Japanese anime, nuclear warfare, everything about aeronautics and space exploration)
-* Ambivalent antisocial who spend most of the time overthinking life and occasionally got drown in seas of random thoughts
-* Awkward young man in the family who always wishes the family gathering to end sooner
-* Binary artist, and eternal dreamer
-
-I write in both English and Bahasa Indonesia. I aspire to be someone who made positive impacts for mankind and particularly for Indonesia, while actually make ends meet with that dream. How can life be well worth living without challenges?
-
-Enjoy my writings.
+Tell me a joke and we can be friends; I love good conversations!
