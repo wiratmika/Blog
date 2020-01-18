@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interning at Qlapa
-image: "/content/images/2017/02/3985.jpg"
+image: "/assets/images/qlapa.jpg"
 date: '2017-02-26 08:29:34'
 tags:
 - misguiding-guides
