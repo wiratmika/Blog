@@ -18,13 +18,13 @@ No doubt commuting is an utterly repetitive and boring part of our life, but it 
 The very definition of perfect Indonesian folk pop album, Roekmana's Repertoire combines the familiar Sundanese pentatonic scale, haunting melodies, and beautiful orchestration that will drown you and take you to the skies at the same time. I was amazed when I opened the packaging because it was... well... so gorgeous. It is kind of saddening for me to know it is sold only at Rp 30k-ish, I believe the artists deserve more.
 
 ## Sean Lennon - Friendly Fire (2006)
-<img src="https:////upload.wikimedia.org/wikipedia/en/a/a0/Friendly_Fire.jpg" style="height:250px;width:250px;" alt="Friendly Fire"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Friendly_Fire.jpg" style="height:250px;width:250px;" alt="Friendly Fire"/>
 
 
 This is the album I wish I can make if I ~~have musical talents~~ took formal and expensive musical training when I was younger. Unsually melancholic chords, enchanting lyrics, and countless droning voices, Sean will make you believe John Lennon is still alive and created a teenage love album with Yoko Ono.
 
 ## Alex Turner - Submarine (2011)
-<img src="https:////upload.wikimedia.org/wikipedia/en/5/5e/Alex_Turner_Submarine.jpg" style="height:250px;width:250px;" alt="Submarine"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Alex_Turner_Submarine.jpg" style="height:250px;width:250px;" alt="Submarine"/>
 
 
 I am pretty sure I am not the only one to believe that Alex Turner is one of the most misunderstood modern musician. People thought that he is adored by millions of women just because he is handsome and, I don't know, some Arctic Monkeys songs sounds nice for women?
