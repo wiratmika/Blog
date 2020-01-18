@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Esok
+image: "/assets/images/senja.jpg"
 date: '2016-05-29 11:55:00'
 tags:
 - dalam-bahasa-indonesia
 - paper-cup
 - for-no-one
-comments: true
+comments: false
 ---
 
 Senja terlahir merindukan langit  
