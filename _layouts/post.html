@@ -7,6 +7,10 @@ layout: default
     <p class="mb-3 py-2 bold h4"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
   </div>
 
+  {% if page.image %}
+    <img src="{{ page.image }}" alt="{{ page.title }}" style="width: 100%; margin-bottom: 2em;"/>
+  {% endif %}
+
   <div class="prose" itemprop="articleBody">
       {{ content }}
   </div>
