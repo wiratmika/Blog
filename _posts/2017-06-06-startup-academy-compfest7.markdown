@@ -46,7 +46,7 @@ No matter how arduous they were, the event actually took off and you can see the
 
 To sum it up, it feels very dreadful (I cannot sleep without thinking about it at least a few times a week) and rewarding experience at the same time.
 
-![It's a wrap](/assets/images/its-a-wrap.png)  
+![It's a wrap](/assets/images/its-a-wrap.jpg)  
 *It's a wrap! My team indeed requires profanity education.*
 
 After the shitstorm was finally over, I realized I barely made the event a successful one (relative to my expectations); but after everything was said and done, I got to learn and earn countless intagible things. I met with a lot of people and found some really good friends from the committee. Obviously we already knew each other before the event, but we actually got closer after we had fun laughing at each other's agony and unluckiness. Indeed, I believe that understanding one's fears and humor taste is the best way to be acquainted with someone.
