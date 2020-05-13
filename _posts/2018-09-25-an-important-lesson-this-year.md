@@ -1,10 +1,9 @@
 ---
 layout: post
 title: An Important Lesson This Year
-# image: "/assets/images/x.jpg"
 date: '2018-09-25 11:34:00'
 tags:
-- paper-cup
+- day-tripper
 - in-english
 comments: true
 ---
