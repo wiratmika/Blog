@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Manifestasi Memori?
-date: '2016-07-25 14:18:31'
+date: "2016-07-25 14:18:31"
 tags:
-- dalam-bahasa-indonesia
-- paper-cup
-comments: true
+  - dalam-bahasa-indonesia
+  - paper-cup
 ---
 
 Kubuka mataku  

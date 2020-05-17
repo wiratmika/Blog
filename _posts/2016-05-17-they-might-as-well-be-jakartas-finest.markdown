@@ -2,11 +2,10 @@
 layout: post
 title: They Might as Well Be Jakarta's Finest
 image: "/assets/images/white-shoes.jpg"
-date: '2016-05-17 10:53:06'
+date: "2016-05-17 10:53:06"
 tags:
-- dalam-bahasa-indonesia
-- day-tripper
-comments: true
+  - dalam-bahasa-indonesia
+  - day-tripper
 ---
 
 Anda pernah dengar Naif?
@@ -19,13 +18,13 @@ Meskipun saya tidak berkesempatan untuk menyaksikannya, saya menyaksikan dokumen
 
 Dan berikut adalah sedikit resensi acara tersebut.
 
-***
+---
 
-Saya ingin bercerita sedikit tentang sebuah pertunjukan musik yang saya saksikan pada 4 Mei 2016 di Gedung Kesenian Jakarta. Sebuah pagelaran yang meninggalkan emosi dan impresi yang mendalam bagi saya. *A show that lasts incisions in my heart and mind, in a good way*.
+Saya ingin bercerita sedikit tentang sebuah pertunjukan musik yang saya saksikan pada 4 Mei 2016 di Gedung Kesenian Jakarta. Sebuah pagelaran yang meninggalkan emosi dan impresi yang mendalam bagi saya. _A show that lasts incisions in my heart and mind, in a good way_.
 
 Artis yang naik panggung pada malam itu adalah White Shoes & The Couples Company, atau sering disebut dengan White Shoes, atau WSATCC.
 
-Lagu pertama yang saya dengar band indie bergaya retro kelahiran Institut Kesenian Jakarta tersebut adalah 'Nothing to Fear' dan 'Runaway Song', ketika saya duduk di bangku kelas 1 SMA, pada tahun 2010. Terlambat, memang. Saya ingat betul bahwa kedua lagu tersebut adalah semacam *redemption* bagi saya yang pada saat itu terjebak di sebuah takdir yang absurd.
+Lagu pertama yang saya dengar band indie bergaya retro kelahiran Institut Kesenian Jakarta tersebut adalah 'Nothing to Fear' dan 'Runaway Song', ketika saya duduk di bangku kelas 1 SMA, pada tahun 2010. Terlambat, memang. Saya ingat betul bahwa kedua lagu tersebut adalah semacam _redemption_ bagi saya yang pada saat itu terjebak di sebuah takdir yang absurd.
 
 Seiring dengan bertambah dewasa dan bergesernya preferensi genre saya, perlahan saya semakin mendalami lagu-lagu pergerakan indie Jakarta, Bandung, Surabaya, dan Jogjakarta; khususnya setelah menyaksikan film Janji Joni bajakan. Sementara teman-teman saya masih bisa menikmati lagu billboard, EDM, K-pop, dan lagu si anak Sule, saya menekuni Silampukau, Marsh Kids, Tigapagi, Sore, Kita Sama-Sama Suka Hujan, dan tentunya White Shoes.
 
@@ -33,13 +32,13 @@ Ketika White Shoes mengadakan 'Konser di Cikini' dalam rangka ulang tahun mereka
 
 Kesempatan emas untuk menyaksikan White Shoes dalam konser eksklusif ternyata datang lagi, ketika mereka mengadakan pentas ini. Bagi Anda yang menyukai White Shoes atau pernah menyaksikan mereka secara langsung, mungkin Anda mengerti mengapa saya begitu bergairah seperti ini.
 
-***
+---
 
 Saya tidak perlu menceritakan seperti apa mereka bermain, karena Anda bisa melihat sendiri di kanal streaming video favorit Anda atau membaca resensi dari penggiat musik profesional. Saya hanya akan menceritakan apa yang saya rasakan pada malam hari itu.
 
-Sungguh, menyaksikan aksi panggung yang begitu energik, *ena*, dinamis, dan ekspresif, membuat kehadiran mereka masih terbayang-bayang di benak saya, berhari-hari setelah menyaksikannya.
+Sungguh, menyaksikan aksi panggung yang begitu energik, _ena_, dinamis, dan ekspresif, membuat kehadiran mereka masih terbayang-bayang di benak saya, berhari-hari setelah menyaksikannya.
 
-Ada yang berkata bahwa The Beatles pecah karena terlalu banyak orang jenius dalam satu kelompok. Lalu bagaimana mereka, *enam* orang dengan talenta dan keahlian bermusik yang jauh di atas rata-rata, bisa bertahan 13 tahun dengan formasi yang sama?
+Ada yang berkata bahwa The Beatles pecah karena terlalu banyak orang jenius dalam satu kelompok. Lalu bagaimana mereka, _enam_ orang dengan talenta dan keahlian bermusik yang jauh di atas rata-rata, bisa bertahan 13 tahun dengan formasi yang sama?
 
 Jawabannya sederhana: karena mereka mendasarkan diri mereka bukan hanya sekedar di musiknya. Mereka sendiri adalah keluarga.
 

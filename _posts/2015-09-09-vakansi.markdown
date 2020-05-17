@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Vakansi
-date: '2015-09-09 14:20:07'
+date: "2015-09-09 14:20:07"
 tags:
-- dalam-bahasa-indonesia
-- paper-cup
-- for-no-one
-comments: true
+  - dalam-bahasa-indonesia
+  - paper-cup
+  - for-no-one
 ---
 
 Iya, kebahagiaan ada di ujung sana  
@@ -37,4 +36,4 @@ Di malam yang hamba tahu penuh dusta dan kebusukan
 
 Jangan salahkan hamba
 
-*9/9/15*
+_9/9/15_

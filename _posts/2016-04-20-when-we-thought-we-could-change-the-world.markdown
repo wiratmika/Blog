@@ -1,11 +1,10 @@
 ---
 layout: post
 title: When We Thought We Could Change the World
-date: '2016-04-20 10:48:56'
+date: "2016-04-20 10:48:56"
 tags:
-- in-english
-- paper-cup
-comments: true
+  - in-english
+  - paper-cup
 ---
 
 I do clearly remember the nights when we were sharing our gibberish rants about what went wrong with this world and how our grandiose plans can change it. The fantasies we had as a young dreamers seemed so apparent and satisfying at the time, no matter how illucid.

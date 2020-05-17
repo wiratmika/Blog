@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Singkat, Bagian 3
-date: '2016-07-17 04:47:01'
+date: "2016-07-17 04:47:01"
 tags:
-- dalam-bahasa-indonesia
-- paper-cup
-comments: true
+  - dalam-bahasa-indonesia
+  - paper-cup
 ---
 
 Aku berlari dengan gelora dan derita  

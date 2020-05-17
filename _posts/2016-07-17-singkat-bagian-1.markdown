@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Singkat, Bagian 1
-date: '2016-07-17 04:34:25'
+date: "2016-07-17 04:34:25"
 tags:
-- dalam-bahasa-indonesia
-- paper-cup
-comments: true
+  - dalam-bahasa-indonesia
+  - paper-cup
 ---
 
 Nalar esok tiada batas  

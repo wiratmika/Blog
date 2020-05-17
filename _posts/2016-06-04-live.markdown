@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Artists That I Must See Live Before I Die
-date: '2016-06-04 06:33:43'
+date: "2016-06-04 06:33:43"
 tags:
-- in-english
-- day-tripper
-comments: true
+  - in-english
+  - day-tripper
 ---
 
 > "Well, your love of music should never fade just because of sour memories, right?"
@@ -30,7 +29,7 @@ So here are the complete list and log of (mostly local indie) artists that I cra
   - [Konser Sinestesia - 13 Jan '16](/2016/01/31/encountering-efek-rumah-kaca.html)
   - **Tiba-tiba Suddenly Konser Again** - 26 Jul '17
 - Elephant Kind
-  - MARKAS 2017 - 27 Aug '17 
+  - MARKAS 2017 - 27 Aug '17
 - Float
   - The 11th JAMS - 25 Okt '14
 - Frau

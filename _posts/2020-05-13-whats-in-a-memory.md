@@ -5,7 +5,6 @@ date: "2020-05-13 17:00:00"
 tags:
   - day-tripper
   - in-english
-comments: false
 ---
 
 Or to be more precise, does our memory comprised of perceptions that we sense during its creation? That was a question I asked myself after repeatedly realized that how I perceive a certain music can be significanly influenced by moments or people, conscious or not.

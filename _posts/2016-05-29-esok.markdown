@@ -2,12 +2,11 @@
 layout: post
 title: Esok
 image: "/assets/images/senja.jpg"
-date: '2016-05-29 11:55:00'
+date: "2016-05-29 11:55:00"
 tags:
-- dalam-bahasa-indonesia
-- paper-cup
-- for-no-one
-comments: false
+  - dalam-bahasa-indonesia
+  - paper-cup
+  - for-no-one
 ---
 
 Senja terlahir merindukan langit  
@@ -23,11 +22,11 @@ Oh, Senja
 Alkisah pernah terucap dari mulutmu  
 Doa yang tidak pernah kau panjatkan?  
 Bahwa rindumu hanya untuk cermin hitam  
-Legam meredam semua amarah  
+Legam meredam semua amarah
 
 Senja  
 Nuraninya ditelan malam sampai esok  
 Membawa serta Kelabu tenggelam di senyum dan tangisnya  
 Hingga Fajar terlahir
 
-*29/5/16*
+_29/5/16_

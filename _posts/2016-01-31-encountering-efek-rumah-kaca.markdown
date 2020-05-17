@@ -2,14 +2,13 @@
 layout: post
 title: Encountering Efek Rumah Kaca
 image: "/assets/images/erk.jpg"
-date: '2016-01-31 05:59:58'
+date: "2016-01-31 05:59:58"
 tags:
-- dalam-bahasa-indonesia
-- day-tripper
-comments: true
+  - dalam-bahasa-indonesia
+  - day-tripper
 ---
 
-*Day Tripper: Jurnal pribadi saya untuk hal yang agak menarik namun kurang penting.*
+_Day Tripper: Jurnal pribadi saya untuk hal yang agak menarik namun kurang penting._
 
 Saya mau bercerita sedikit tentang pertemuan saya dengan sebuah band trio psychedelic rock minimalis, Efek Rumah Kaca.
 
@@ -17,7 +16,7 @@ Saya pertama kali mengenal Efek Rumah Kaca ketika mereka menjadi salah satu gues
 
 Life goes on, dan setelah saya menginjak bangku kuliah, perlahan saya semakin menikmati musik indie Indonesia dari berbagai spektrum, sebagian besar beraliran alternative rock. Hingga suatu hari, saya mendengar [konser kolaborasi Efek Rumah Kaca x Barasuara](https://youtu.be/UrhbGN-MwC8) dari [Sounds From the Corner](http://www.soundsfromthecorner.com/). Bisa dibilang pada saat itu saya ikut terbawa hype train Barasuara.
 
-*I was **absolutely** stunned by that show*. Mungkin itu satu-satunya video konser tunggal di YouTube yang saya tonton secara penuh dan khusyuk dari track pertama hingga track terakhir. Lirik dan aransemen Efek Rumah Kaca yang sangat kental dengan aura Radiohead, dipadukan dengan spirit membara Barasuara, salah satu band rock pendatang paling energetik di tahun 2015, merupakan paduan yang sempurna untuk konser yang juga diiringi tata panggung, kamera, editing, dan sound engineering yang luar biasa apik.
+_I was **absolutely** stunned by that show_. Mungkin itu satu-satunya video konser tunggal di YouTube yang saya tonton secara penuh dan khusyuk dari track pertama hingga track terakhir. Lirik dan aransemen Efek Rumah Kaca yang sangat kental dengan aura Radiohead, dipadukan dengan spirit membara Barasuara, salah satu band rock pendatang paling energetik di tahun 2015, merupakan paduan yang sempurna untuk konser yang juga diiringi tata panggung, kamera, editing, dan sound engineering yang luar biasa apik.
 
 Ketika single 'Putih' mereka rilis di [Soundcloud](https://soundcloud.com/efek_rumah_kaca/putih), saya hampir meneteskan air mata ketika pertama kali mendengarkannya. Lagu tersebut adalah salah satu karya seni musik terindah yang pernah saya dengar, dan, entahlah... Mungkin karena kondisi keluarga saya yang membuat saya bisa sedikit relate dengan temanya.
 

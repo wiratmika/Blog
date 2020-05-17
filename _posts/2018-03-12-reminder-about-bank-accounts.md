@@ -2,11 +2,10 @@
 layout: post
 title: Reminder About Bank Accounts
 # image: "/assets/images/x.jpg"
-date: '2019-03-12 15:28:00'
+date: "2019-03-12 15:28:00"
 tags:
-- misguiding-guides
-- in-english
-comments: true
+  - misguiding-guides
+  - in-english
 ---
 
 I've just closed one of my conventional bank accounts that I have never used anymore.

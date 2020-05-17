@@ -1,11 +1,10 @@
 ---
 layout: post
 title: An Important Lesson This Year
-date: '2018-09-25 11:34:00'
+date: "2018-09-25 11:34:00"
 tags:
-- day-tripper
-- in-english
-comments: true
+  - day-tripper
+  - in-english
 ---
 
 In politic, relationship, and career, I learn one very important commonality.

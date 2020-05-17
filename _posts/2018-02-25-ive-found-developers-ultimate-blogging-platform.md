@@ -2,11 +2,10 @@
 layout: post
 title: I've Found Developer's Ultimate Blogging Platform
 # image: "/assets/images/x.jpg"
-date: '2018-02-25 16:48:50'
+date: "2018-02-25 16:48:50"
 tags:
-- misguiding-guides
-- in-english
-comments: true
+  - misguiding-guides
+  - in-english
 ---
 
 A few months ago I was looking for a platform to help me write and publish useless writings, such as this one you're reading right now.

@@ -2,11 +2,10 @@
 layout: post
 title: Balada Deadliner
 image: "/assets/images/overwhelmed.jpg"
-date: '2014-09-27 05:00:00'
+date: "2014-09-27 05:00:00"
 tags:
-- bullshit-rants
-- dalam-bahasa-indonesia
-comments: true
+  - bullshit-rants
+  - dalam-bahasa-indonesia
 ---
 
 Bangun tidur keingetan PR  
