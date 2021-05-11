@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Our Future Endeavours
 image: "/assets/images/superdad.jpg"
 date: "2015-10-25 14:14:04"

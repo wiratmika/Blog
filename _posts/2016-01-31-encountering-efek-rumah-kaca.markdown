@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Encountering Efek Rumah Kaca
 image: "/assets/images/erk.jpg"
 date: "2016-01-31 05:59:58"

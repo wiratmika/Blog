@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: (My) Surviving Commuting, Part One
 image: "/assets/images/commuting.jpg"
 date: "2015-09-05 04:41:26"

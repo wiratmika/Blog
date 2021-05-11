@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: They Might as Well Be Jakarta's Finest
 image: "/assets/images/white-shoes.jpg"
 date: "2016-05-17 10:53:06"
