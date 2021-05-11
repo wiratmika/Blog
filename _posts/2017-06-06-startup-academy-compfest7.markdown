@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Startup Academy CompFest7
-image: "/assets/images/sac7.jpg"
+header:
+  image: "/assets/images/sac7.jpg"
 date: "2017-06-06 16:36:12"
 tags:
   - in-english

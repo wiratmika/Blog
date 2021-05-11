@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Interning at Qlapa
-image: "/assets/images/qlapa.jpg"
+header:
+  image: "/assets/images/qlapa.jpg"
 date: "2017-02-26 08:29:34"
 tags:
   - misguiding-guides

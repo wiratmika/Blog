@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Our Future Endeavours
-image: "/assets/images/superdad.jpg"
+header:
+  image: "/assets/images/superdad.jpg"
 date: "2015-10-25 14:14:04"
 tags:
   - in-english

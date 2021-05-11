@@ -1,7 +1,5 @@
 ---
-layout: single
 title: I've Found Developer's Ultimate Blogging Platform
-# image: "/assets/images/x.jpg"
 date: "2018-02-25 16:48:50"
 tags:
   - misguiding-guides

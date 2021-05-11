@@ -1,7 +1,5 @@
 ---
-layout: single
 title: Reminder About Bank Accounts
-# image: "/assets/images/x.jpg"
 date: "2019-03-12 15:28:00"
 tags:
   - misguiding-guides

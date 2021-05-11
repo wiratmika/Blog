@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Granny Test
 date: "2016-06-20 14:25:15"
 tags:

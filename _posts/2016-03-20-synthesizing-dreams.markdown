@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Synthesizing Dreams
 date: "2016-03-20 04:37:39"
 tags:

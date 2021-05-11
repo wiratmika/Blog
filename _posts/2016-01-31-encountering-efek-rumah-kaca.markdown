@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Encountering Efek Rumah Kaca
-image: "/assets/images/erk.jpg"
+header:
+  image: "/assets/images/erk.jpg"
 date: "2016-01-31 05:59:58"
 tags:
   - dalam-bahasa-indonesia

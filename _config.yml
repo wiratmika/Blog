@@ -19,7 +19,7 @@ locale: "en-US"
 title: "Wiratmika"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
+name: "Wiratmika"
 description: "An amazing website."
 url: "https://blog.wiratmika.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -86,9 +86,9 @@ social:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id:
+    tracking_id: "UA-54482429-4"
     anonymize_ip: # true, false (default)
 
 # Site Author
@@ -202,8 +202,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page/:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page/:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
