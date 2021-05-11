@@ -34,8 +34,7 @@ Coordinating with the supporting divisions of CompFest is really hard, because t
 
 Ultimately, with the help of my colleague [Hasandi Patriawan](http://patriawans.com), we managed to invite several startup-ish people to participate in our event, ten of them to be exact. The names include [Traveloka co-founder and head of design](http://www.bintang.com/success/read/2849381/albert-zhang-berhenti-bekerja-demi-membangun-traveloka), [prominent venture capitalist](https://id.linkedin.com/in/dondihananto), [Bukalapak co-founder and CFO](https://id.linkedin.com/in/fajrinrasyid), [Tokopedia early employee](https://id.linkedin.com/in/trinugraha), and [Developer Mengajar initiator](https://id.linkedin.com/in/sidiqpermana).
 
-![Poster density](/assets/images/poster-density.jpg)  
-_I mean, just look at the density of that poster..._
+{% include figure image_path="/assets/images/poster-density.jpg" alt="CompFest7 poster" caption="I mean, just take a look at the density of that poster..." %}
 
 One thing I am still grateful of is that all of the mentors and speakers are contributing to the event without any kind of monetary compensation. One of the best bunches of them is [Mr. Andrias Ekoyuono](https://id.linkedin.com/in/andrias98), arguably one of the nicest man I have ever met. I contacted [Ideosource](http://ideosource.com/), a venture capital that he once led, and he replied to us personally. After we meet directly, he is willing to help us and gave some really major insights on how Startup Academy should be held. He is also willing to be both the event’s mentor and advisor for us. God bless him.
 
@@ -45,8 +44,7 @@ No matter how arduous they were, the event actually took off and you can see the
 
 To sum it up, it feels very dreadful (I cannot sleep without thinking about it at least a few times a week) and rewarding experience at the same time.
 
-![It's a wrap](/assets/images/its-a-wrap.jpg)  
-_It's a wrap! My team indeed requires profanity education._
+{% include figure image_path="/assets/images/its-a-wrap.jpg" alt="CompFest7 group chat" caption="It's a wrap! My team indeed requires profanity education." %}
 
 After the shitstorm was finally over, I realized I barely made the event a successful one (relative to my expectations); but after everything was said and done, I got to learn and earn countless intagible things. I met with a lot of people and found some really good friends from the committee. Obviously we already knew each other before the event, but we actually got closer after we had fun laughing at each other's agony and unluckiness. Indeed, I believe that understanding one's fears and humor taste is the best way to be acquainted with someone.
 
