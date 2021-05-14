@@ -3,9 +3,7 @@ title: Startup Academy CompFest7
 header:
   image: "/assets/images/sac7.jpg"
 date: "2017-06-06 16:36:12"
-tags:
-  - in-english
-  - day-tripper
+tag: Day tripper
 ---
 
 This is the story of how I organized a seemingly impossible and highly ambitious event, [Startup Academy](http://web.archive.org/web/20151110034935/http://compfest.web.id/event/startup-academy) [CompFest7](//id.wikipedia.org/wiki/CompFest). An event of this scale, organized by Indonesian university students, is never held before. This writing is long overdue because of my laziness, so here goes.

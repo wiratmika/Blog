@@ -1,9 +1,7 @@
 ---
 title: I've Found Developer's Ultimate Blogging Platform
 date: "2018-02-25 16:48:50"
-tags:
-  - misguiding-guides
-  - in-english
+tag: Might be useful
 ---
 
 A few months ago I was looking for a platform to help me write and publish useless writings, such as this one you're reading right now.

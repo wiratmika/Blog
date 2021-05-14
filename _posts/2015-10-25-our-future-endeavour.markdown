@@ -3,9 +3,7 @@ title: Our Future Endeavours
 header:
   image: "/assets/images/superdad.jpg"
 date: "2015-10-25 14:14:04"
-tags:
-  - in-english
-  - paper-cup
+tag: Paper cup
 ---
 
 When I was in high school, I wrote two short prose for my father's birthday, which made my mother jealous. As the time goes by and I got drown in college life, I did not continue that habit. Lately, I realized that a man's memory capabilities are severely limited and writing is the best form of archival - at least for me - and therefore, I would like to tell a little story about my father, for once more.

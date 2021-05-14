@@ -3,9 +3,7 @@ title: Interning at Qlapa
 header:
   image: "/assets/images/qlapa.jpg"
 date: "2017-02-26 08:29:34"
-tags:
-  - misguiding-guides
-  - in-english
+tag: Might be useful
 ---
 
 _This post bears the same thread as my previous writing, [What I Learned Interning in a Startup](/2015/07/26/what-i-learned-interning-in-a-startup.html)._

@@ -3,12 +3,8 @@ title: Encountering Efek Rumah Kaca
 header:
   image: "/assets/images/erk.jpg"
 date: "2016-01-31 05:59:58"
-tags:
-  - dalam-bahasa-indonesia
-  - day-tripper
+tag: Day tripper
 ---
-
-_Day Tripper: Jurnal pribadi saya untuk hal yang agak menarik namun kurang penting._
 
 Saya mau bercerita sedikit tentang pertemuan saya dengan sebuah band trio psychedelic rock minimalis, Efek Rumah Kaca.
 

@@ -3,9 +3,7 @@ title: (My) Surviving Commuting, Part One
 header:
   image: "/assets/images/commuting.jpg"
 date: "2015-09-05 04:41:26"
-tags:
-  - misguiding-guides
-  - in-english
+tag: Paper cup
 ---
 
 No doubt commuting is an utterly repetitive and boring part of our life, but it becomes more bearable with good tunes to accompany you through the endless traffic jam or smelly armpits in metro. Here is the first part a non-exhaustive list of good albums I listen countless times during my commute, in no particular order.

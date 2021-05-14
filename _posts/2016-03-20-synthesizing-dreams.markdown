@@ -1,9 +1,7 @@
 ---
 title: Synthesizing Dreams
 date: "2016-03-20 04:37:39"
-tags:
-  - in-english
-  - just-in-case
+tag: Paper cup
 ---
 
 I wrote this sometime around 2013 to enroll in a certain "technology and design" university in Singapore. I _cannot_ believe I wrote such a _beautiful_ prose in such young age. I am putting this here for archival's sake.

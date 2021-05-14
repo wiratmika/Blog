@@ -1,9 +1,7 @@
 ---
 title: The Granny Test
 date: "2016-06-20 14:25:15"
-tags:
-  - bullshit-rants
-  - in-english
+tag: Paper cup
 ---
 
 I am proposing a simple yet nearly unattainable test for every so-called UX designer of product type. I named it _The Granny Test_.

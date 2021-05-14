@@ -1,9 +1,7 @@
 ---
 title: Reminder About Bank Accounts
 date: "2019-03-12 15:28:00"
-tags:
-  - misguiding-guides
-  - in-english
+tag: Might be useful
 ---
 
 I've just closed one of my conventional bank accounts that I have never used anymore.
