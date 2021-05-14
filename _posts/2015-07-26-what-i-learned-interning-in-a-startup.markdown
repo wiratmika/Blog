@@ -20,4 +20,4 @@ Place I had worked in might not be glamorous and I am pretty sure you never hear
 7. If you are working in a place with many foreigners, expect the climate control to be ridiculously cold.
 8. Expatriates do indeed use BitTorrent and download pirated stuffs...
 
-**Update 26/2/17: Read more about my new adventure on working at yet another (and larger) startup [here](/2017/02/26/interning-at-qlapa.html).**
+**Update 26/2/17: Read more about my new adventure on working at yet another (and larger) startup [here]({% post_url 2017-02-26-interning-at-qlapa %}).**
