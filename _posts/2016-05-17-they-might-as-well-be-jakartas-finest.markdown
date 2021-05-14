@@ -6,9 +6,7 @@ date: "2016-05-17 10:53:06"
 tag: Day tripper
 ---
 
-Anda pernah dengar Naif?
-
-Band jebolan IKJ - yang masih melanglang buana dua dekade setelah dibentuk - mengadakan konser bertajuk "A Night at Schouwburg" pada ulang tahun ke-13 mereka di Gedung Kesenian Jakarta. Rekamannya dirilis dalam bentuk album yang jujur dan jenaka; semua outtakes dan lawakan masih dipertahankan tanpa ada pemotongan sama sekali.
+Anda pernah dengar Naif? Band jebolan IKJ - yang masih melanglang buana dua dekade setelah dibentuk - mengadakan konser bertajuk "A Night at Schouwburg" pada ulang tahun ke-13 mereka di Gedung Kesenian Jakarta. Rekamannya dirilis dalam bentuk album yang jujur dan jenaka; semua outtakes dan lawakan masih dipertahankan tanpa ada pemotongan sama sekali.
 
 Tujuh tahun kemudian, sebuah band IKJ yang bisa dibilang spiritual successor mereka (meski dengan genre yang cukup berbeda), White Shoes & The Couples Company, berulang tahun ke-13 dan mengadakan konser yang serupa di Graha Bhakti Budaya.
 
