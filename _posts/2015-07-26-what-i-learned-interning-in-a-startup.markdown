@@ -1,23 +1,19 @@
 ---
 title: What I Learned Interning in a Startup
 header:
-  image: "/assets/images/trustklik.jpg"
+  image: "/assets/images/startup.jpg"
 date: "2015-07-26 08:34:17"
 tag: Might be useful
 ---
 
-Place I had worked in might not be glamorous and I am pretty sure you never heard of it, but here is a few things that I believe will apply in any of software or technology startup:
+During my first internship tenure, I learned a few things that I believe are applicable in any software or technology startup.
 
-1. The first and foremost: version control, especially Git, is extremely useful and is used practically everywhere. Things such as line-by-line comparison, stash, and merge tool, are immensely helpful I almost cannot believe I never used them before in my life. Learn version control and try to actually use it at least for your own projects.
-2. For me, nothing can beat the excitements of seeing your code goes live on a real product, being used by real people. It is something that is rare on a medium to large scale enterprises.
-3. Just like academic settings, for small to medium projects, text editor's simplicity and functionality trumps IDE anytime. Learn a good text editor, stick with it, customize it with plugins, and memorize all of its shortcuts. Trust me, it will pay off in the long run. I do highly recommend [Sublime Text](https://www.sublimetext.com/) or [Visual Studio Code](https://code.visualstudio.com/) as a starter.
-4. Unless you are a hard learner, you do better not apply to work in a place where they are using languages that are either:
-   - You rarely use
-   - You tried and instantly dislike
-   - You never use at all
-5. I am not sure about this one, but it seems that working in a startup means that you are expected to be a jack of all trades. Say, just because you are tasked to be a backend developer does not mean you are not expected to do some frontend or system administration work.
-6. Undocumented, messy codes are hell. Seriously, documentation is important as fuck, and if you are not extremely certain that no one else will have to read your code, **do not** dare to neglect it.
-7. If you are working in a place with many foreigners, expect the climate control to be ridiculously cold.
-8. Expatriates do indeed use BitTorrent and download pirated stuffs...
+{% include figure image_path="/assets/images/trustklik.jpg" alt="Selfie in my office" caption="My last, and only pic of the now-defunct Ciputra GEPI Incubator. I was in hurry, so pardon for everything." %}
 
-**Update 26/2/17: Read more about my new adventure on working at yet another (and larger) startup [here]({% post_url 2017-02-26-interning-at-qlapa %}).**
+1. The first and foremost: version control, especially Git, is extremely useful and is used for practically all software development. Things such as line-by-line comparison, stash, and merge tool, are immensely helpful I almost cannot believe I never used them before in my life. Learn version control and try to actually use it at least for your own projects.
+2. For me, nothing can beat the excitement of seeing your code goes live on a real product, being used by real people. It is an opportunity that might not always be available on bigger companies for entry-level jobs.
+3. In certain settings, especially in small to medium projects, text editor's simplicity might be all you need, rather than using full-blown IDE. Learn a good text editor, customize it with extensions, and try to memorize all of its shortcuts. I highly recommend [Visual Studio Code](https://code.visualstudio.com/).
+4. Working in a very small startup means that you are expected to be a jack of all trades. Say, just because you are tasked to be a backend developer does not mean you are not expected to do some frontend or devops work.
+5. Undocumented, messy codes are hell to read and work upon. You either have to write clean and self-explanatory code, or make up the deficiencies by writing easy to understand documentation. Do not neglect both at the same time, unless you're extremely certain that no one else will have to read your code.
+6. If you are working in a place with many foreigners, expect the climate control to be ridiculously cold.
+7. Expatriates do indeed download pirated stuffs from BitTorrent... But this was the day before online streaming was the norm.
