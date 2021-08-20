@@ -15,7 +15,7 @@ I'm not in any way rich (although I'm hoping to get there soon!) nor claiming my
 Due to the complex nature of the topic, I'm separating the discourse into 3 separate, inter-connected posts:
 
 1. My personal philosophies and values; foundations for all my decisions and reasonings to rest upon
-2. How I actually allocate my money, including detailed "workflows" and tools that I use
+2. How I allocate my money, including the detailed system and tools that I use
 3. Investment portfolio and specific assets that I own with regards to my goals and circumstances
 
 # Principles and Mindsets
