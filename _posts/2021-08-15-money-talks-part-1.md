@@ -70,4 +70,4 @@ In any case, there's no reason for us to be stingy, even if we're trying to be m
 
 ---
 
-In the next post, I'll talk in more detail about how I implement my principles into action. I'll talk about my cashflow tracking, bank accounts, credit cards, and emergency funds, before getting into my investment portfolio.
+In the next part, I'll talk in more detail about how I implement my principles into action. I'll talk about my cashflow tracking, bank accounts, credit cards, and emergency funds, before getting into my investment portfolio.
