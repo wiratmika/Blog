@@ -44,7 +44,7 @@ If you choose to do budgeting to gain control of your finances, I highly recomme
 
 # Bank Accounts
 
-I have two primary bank accounts: one in the most popular bank in the country that I must own to receive my payroll, and a [digital bank account](https://www.tmrwbyuob.com/id/id/mgm/friend_referral.html?ref=https%3A%2F%2Ftmrwbyuobid.page.link%3Fapn%3Dcom.uob.id.digitalbank%26ibi%3Dcom.uob.id.digitalbank%26link%3Dhttps%3A%2F%2Fwww.tmrwbyuob.com%3FreferralCode%3DM01370086603) that offers absolutely zero monthly fees or any other charges, including transfer to _any_ banks, with _no limit nor any prerequisite_.
+I have two primary bank accounts: one in the most popular bank in the country that I must own to receive my payroll, and a [digital bank account](https://www.tmrwbyuob.com/id/id/mgm/friend_referral.html?ref=https%3A%2F%2Ftmrwbyuobid.page.link%3Fapn%3Dcom.uob.id.digitalbank%26ibi%3Dcom.uob.id.digitalbank%26link%3Dhttps%3A%2F%2Fwww.tmrwbyuob.com%3FreferralCode%3DM01380097938) that offers absolutely zero monthly fees or any other charges, including transfer to _any_ banks, with _no limit nor any prerequisite_.
 
 I have strong conviction that over time, branchless digital banks will the be the norm of banking going forward thanks to the cost efficiencies that they offer. Unlike traditional banks, they can save substantial operatings cost by not having to maintain physical branches.
 
