@@ -15,7 +15,7 @@ If we want to understand where we are now financially, we'll need at least 4 inf
 1. Assets: everything we own that has intrinsic value and either produce money or can be easily liquidified (i.e., sold). Any other things that we own that don't fit those criteria (e.g. cars, phones, and furnitures) should **not** count towards it.
 2. Liabilities: everything we owe, i.e. loans and debts to any parties, such as car loans, mortgages, and I-owe-yous.
 3. Income: money that goes in our pocket.
-4. Expenses: money that goes out oour pocket.
+4. Expenses: money that goes out our pocket.
 
 I use [Banktivity](https://www.banktivity.com), an app that's only available in macOS and iOS[^1]. It has a good interface and doesn't enforce a vendor lock-in; they don't hold your data hostage if we don't want to continue our subscription. Whatever tools that you want to use, I highly recommend for you to consider and use double entry bookkeeping, because it will make the tracking much easier.
 
