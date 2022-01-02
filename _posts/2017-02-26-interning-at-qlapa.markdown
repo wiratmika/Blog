@@ -12,7 +12,7 @@ So basically I've interned twice in Indonesian tech companies, in which one of t
 
 Yet it was not enough for me. I was looking for more opportunities, more challenges, and more insights for my ever-changing outlook of what I am going to do after graduation, which is nearing soon at the time of this writing. I was eager for a place small enough so that I can make a proper presence and large enough so that I can learn real best engineering practices.
 
-One fine day during my last summer internship, I was emailed by a spokeperson of [Qlapa](https://qlapa.com/), a curated handicraft marketplace startup. The timing couldn't be better. My good friend Tri Ahmad Irfan (also known as [the][] [boy][] [who][] [interned][] [at][] [Twitter][]) once told me that Qlapa is amongst promising startups in Indonesia since they have a really solid set of founders who knows their shit and managed to capitalize their market well.
+One fine day during my last summer internship, I was emailed by a spokeperson of [Qlapa](https://qlapa.com/), a curated handicraft marketplace startup. The timing couldn't be better. I heard that Qlapa is amongst promising startups in Indonesia since they have a solid set of founders and managed to capitalize on the market well.
 
 I thought, what the hell, I've got nothing to lose anyway, so I decided to give it a try and pay their office a visit. To my surprise, what I thought was going to be a friendly afternoon chit-chat with tea turns out to be a full-blown engineering interview. I practically prepared for nothing and simply went on with the flow. One noteful thing though is that at the end of the interview (by the [CTO](https://id.linkedin.com/in/fransiskusx) and some of the engineering crews) I get to speak with the [CEO of the company](https://id.linkedin.com/in/bennyfajarai) himself. I mean, how many times you actually get to speak with the CEO of the company you're applying to?
 
@@ -35,10 +35,3 @@ There are 7 interns in the development team (which includes all engineers/design
 My time in Qlapa was a jolly good one that it feels better than spending my holiday doing nothing. After my tenure had ended, it makes me kind of sad and wishes that I can work for a longer time. Although it might sound somewhat obvious, working at Qlapa is more enjoyable than continuing my study.
 
 My take is, if you're passionate about learning and building meaningful product in a seriously fun environment, or you want to have great chances to make an lasting impact through your thinking and decision-making role, go ahead and give Qlapa a try. If you're not convinced yet, I think the founders are generous enough to talk with you if you need more persuasion. By the way, this is not a sponsored post. I just happen to like them so much it urges me to write a memoir in the form of writing; an eternal form. As always, whatever you're going to do, good luck on your future endeavours!
-
-[the]: http://www.youthmanual.com/post/profil/tri-ahmad-irfan-mahasiswa-ilmu-komputer-universitas-indonesia-yang-sukses-magang-di-twitter-amerika-serikat
-[boy]: http://sidomi.com/392285/tri-ahmad-irfan-inilah-mahasiswa-ui-yang-magang-di-twitter/
-[who]: http://www.solopos.com/2016/10/08/ini-dia-tri-ahmad-irfan-mahasiswa-boyolali-yang-magang-di-twitter-759292
-[interned]: https://blog.cozora.com/the-story-of-tri-ahmad-irfan-getting-an-internsip-in-silicon-valley-756c3ed44d29
-[at]: https://blog.cozora.com/the-story-of-tri-ahmad-irfan-getting-an-internsip-in-silicon-valley-756c3ed44d29#.al5wiyk96
-[twitter]: http://irfan3.me/
