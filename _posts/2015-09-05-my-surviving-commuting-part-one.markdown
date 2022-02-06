@@ -24,7 +24,7 @@ This is the album I wish I could make if I ~~have musical talents~~ took formal 
 
 ![Submarine](https://upload.wikimedia.org/wikipedia/en/5/5e/Alex_Turner_Submarine.jpg){: .align-center}
 
-I am sure I am not the only one to believe that Alex Turner is one of the most misunderstood modern musicians. People think that he is adored by millions of women just because he is handsome and, I don't know, some Arctic Monkeys songs sound nice for women?
+I am sure I am not the only one to believe that Alex Turner is one of the most misunderstood modern musicians. People think that he is adored by millions of women just because he is handsome, and perhaps listening to Arctic Monkeys is considered hip amongst women nowadays?
 
 Beyond his charming act, though, you should listen to this album to understand why everything he wrote and sang is _actually_ spectacular. This album is made for the movie [Submarine](https://www.imdb.com/title/tt1440292/). Therefore, it has a complete setlist to listen to when you fall in love, enjoy your first date, are stuck on an enigma, and ultimately break up.
 
