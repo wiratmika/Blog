@@ -27,11 +27,9 @@ Investing without clear financial goals can be a slippery slope, for two reasons
 1. Every investments has risk and return (more on that below) that highly depends on the timeframe and the importance of it, i.e. can you afford to lose the money.
 2. It'll be more tempting to not save and invest for short-term xxx due to lack of longer-term needs; also known as delayed gratification.
 
-I'm saving most of that differences to investments for my long-term goals:
+Saving goal does not have to he a purchase. I'm saving most of that differences to investments for my long-term goals: to own complete freedom, options, and flexibility to life that I want to live. I want to have a safety net that allows me the freedom work on things that I love or believe in, instead of focusing on the pay or compensation. I want to be able to support my wife and children, if I will ever have one. Education is one of the few things that surpass inflation rate in terms of price increase. I want my children to have all the opportunities they need to pursue their aspirations.
 
-1. Having a financial safety net so I have the freedom work on things that I love or believe in, instead of focusing on the pay or compensation.
-2. Supporting my wife and children, if I will ever have one. Education is one of the few things that surpass inflation rate in terms of price increase. I want my children to have all the opportunities they need to pursue their aspirations.
-3. Probably have house that own, either landed or a low-rise one. In many places renting is more favorable than buying due to unbalanced supply and demand (a topic for another day). However, for peace of mind I view that it's nice to have a place to fall back to. I will clearly treat my house as a place to live, not an investment.
+One thing that I did not really want is material. I bought my dream car (a Volkswage Golk Mk7) pretty early in my life, then I realize that no matter how I like cars (I watch tons of reviews for entertainment), at the end of the day, they are just a transporation to get you from point A to point B. There are plenty of substitues: public transport, or even a cheaper, easier to maintain car.
 
 Settings goals are very important, because without it, it can be difficult to determine which investment vehicles that suit your needs best. The more specific your goal is, the better; at the very least you should have close approximate of the amount and the time when it's needed, so you can determine which assets to invest in and why.
 
