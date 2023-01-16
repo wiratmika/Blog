@@ -19,7 +19,7 @@ If we want to understand where we are now financially, we'll need at least 4 inf
 
 I use [Banktivity](https://www.banktivity.com), an app that's only available in macOS and iOS[^1]. It has a good interface and doesn't enforce a vendor lock-in; they don't hold your data hostage if we don't want to continue our subscription. Whatever tools that you want to use, I highly recommend you consider and use double-entry bookkeeping, because it will make the tracking much easier.
 
-[^1]: I only use the macOS version, because I spend most of my time on my computer anyway. The data is synced with my Dropbox account.
+[^1]: I only use the macOS version, because I spend most of my time on my computer anyway. The data is synced with my iCloud Drive.
 
 Back when I experimented with simple personal finance apps that don't have double-entry bookkeeping, I was having a hard time tracking a lot of things especially when I'm transferring money between my own accounts or borrowing/lending money to others. It was all solved when I began to use tools that have the double-entry built into the design. If you think that such a method is only suited for business, our own finance isn't actually differed much from a company; after all, we're a small enterprise of our own, controlling a real set of cashflows.
 
