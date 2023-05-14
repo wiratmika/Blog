@@ -1,47 +1,43 @@
 ---
-title: "Money Talks, Part 3: How and Why of Investing"
+title: "Money Talks, Part 3: Why Invest?"
 date: "2021-xx-xx xx:xx:00"
 tag: Might be useful
 ---
 
-Investing is the most commonly-asked topic that people for some reason love to discuss. This is perhaps because unlike personal expense and lifestyle preferences, investing is not a considered taboo. It can be relatively easy to replicate, and people are less reluctant talking about their investments in absolute amount, say, compared to the amount of mortgage they pay every month.
+Investing is the most common topic that people, for some reason, love to have a discourse on. This is likely because, unlike personal expense and lifestyle preferences, investing is not considered taboo to talk about openly. People are more willing to share information about their investments than their mortgages. In addition, investments are, to some extent, relatively easy to replicate and undo.
 
-However, I intentionally made this discussion only as part of the second half because in terms of the roadmap, investing itself is probably the easiest to figure out. It can only be effective only after you've fixed of several foundatinos.
+I intentionally discuss investments last because investing is the easiest to figure out in the bigger picture of personal finance. Good decisions can be easily derived using first principles, simple math, and statistics. It does not need one to be uncomfortable with their emotions and doesn't require much time to execute and manage. Yet, it bears repeating that investing can only be effective after understanding and grasping the behavioral fundamentals.
 
-## Investing is different for everyone
+# Investing is a Different Thing for Each of Us
 
-My background and upbringing allow me to have a comparatively low expenses compared to my social circles, allowing me to have significant savings and ability to plan for longer-term goals. I'm about to tell my personal stories and perspective I gained in another post, but for now, the most important thing you need to understand that everyone's life circumstances are different. Knowing what your priorities are in life will be amongst the biggest factors in determining how and why to invest.
+Everyone's life circumstances are different. Knowing your priorities will be among the most significant factors when determining why and how one should invest. Priorities inherently vary between people because everyone values things differently. For example, some people prefer to have children at the early stage of their careers. Some people like to party all night and weekends long. The thing is, there's no such thing as the right or wrong decision for such things. Married people with kids might lose out on savings early on, but they can earn joy from raising their kids.
 
-Priorites are different because everyone values and prioritizes things differently. For example, some people prefer to have children at the early stage of their career. Some people prefer to party all nights and weekends long.
+On the other hand, people who prefer not to marry nor have kids seem more independent, but I wonder how they will fare during old age when they have no one to tend to except each other. Therefore, before discussing what to invest in, understand financial goals and why they're essential.
 
-The thing is, there's no such thing as the right or wrong decision for such things. Married people with kids might lose out on savings early on, but they can earn joy from raising their kids. People who prefer not to marry nor have kids seem more independent, but I wonder how they will fare during the old ages where they have no one to tend to except each other.
+## Setting up financial goals
 
-I am grateful that I can consider myself as financially well-off. Even though I'm supporting my family right now, it's comparably small compared to my income that I get from working in booming tech industry.
+However, before we can go into investments, we need to understand *why* we invest in the first place. Investing without clear financial goals can be a slippery slope for two reasons:
 
-Therefore, before talking about what to invest in, understand about financial goals first and why they're important.
+1. Every investment has risk and return (more on that below) that highly depend on its timeframe and risk tolerance, i.e., can you afford to lose the money.
+2. It'll be more tempting to not save and invest for short-term pleasures due to a lack of longer-term needs, also known as delayed gratification.
 
-### Setting up financial goals
+A saving goal does not have to be a purchase. I'm saving most of that differences for investments for my long-term goals: to own complete freedom, options, and flexibility in the life that I want to live. I want a safety net that allows me to work on things I love or believe in instead of focusing on the pay or compensation. I want to be able to support my wife and children if I will ever have one. Education cost is among the few things that consistently surpass the inflation rate. I want my children to have all the opportunities they need to pursue their aspirations.
 
-Investing without clear financial goals can be a slippery slope, for two reasons:
+I am trying my best to let go of material possessions cravings. I bought my dream car pretty early in my life. I later realized that no matter how I like cars (I watch tons of reviews for entertainment), at the end of the day, they are just transportation tools to get you from point A to point B. Outside public transport, there are plenty of substitutes: ride-hailing and cheaper, easier-to-maintain cars. I closely follow technological gadgets, but I realized no matter how pricy a device is, it only makes one's life better up until diminishing marginal utility points. For example, a $2000 state-of-the-art OLED TV is nice to watch but not vastly different from a capable $500 TV.
 
-1. Every investments has risk and return (more on that below) that highly depends on the timeframe and the importance of it, i.e. can you afford to lose the money.
-2. It'll be more tempting to not save and invest for short-term xxx due to lack of longer-term needs; also known as delayed gratification.
+Settings goals are crucial because, with them, it can be easier to determine which investment vehicles best suit your needs. The more specific your goal is, the better; you should have a close approximation of the amount and the time when it's needed, so you can determine which assets to invest in and why.
 
-Saving goal does not have to he a purchase. I'm saving most of that differences to investments for my long-term goals: to own complete freedom, options, and flexibility to life that I want to live. I want to have a safety net that allows me the freedom work on things that I love or believe in, instead of focusing on the pay or compensation. I want to be able to support my wife and children, if I will ever have one. Education is one of the few things that surpass inflation rate in terms of price increase. I want my children to have all the opportunities they need to pursue their aspirations.
+*There's no such thing as "the best investment"*: it's always a trade-off between risk and return. Generally, the higher your risk-taking, the higher the return will be.
 
-One thing that I did not really want is material. I bought my dream car (a Volkswage Golk Mk7) pretty early in my life, then I realize that no matter how I like cars (I watch tons of reviews for entertainment), at the end of the day, they are just a transporation to get you from point A to point B. There are plenty of substitues: public transport, or even a cheaper, easier to maintain car.
+# Understanding Risk and Return Trade-offs
 
-Settings goals are very important, because without it, it can be difficult to determine which investment vehicles that suit your needs best. The more specific your goal is, the better; at the very least you should have close approximate of the amount and the time when it's needed, so you can determine which assets to invest in and why.
-
-There's no such thing as "the best investment": it's all a trade-offs between risk and return. Generally, the higher the risk you're taking, the higher the return will be.
-
-### Understanding risk and return trade-offs
-
-There is a whole stiudy of this, but the key takeaway that you need to remember is this: risk and return are linear. The higher return you want, the higher the risk will be. There is no getting around it. If there is investments with high return and low risk, everybody would be already rich by now.
+There are many studies on this topic, but the key takeaway you need to remember is that risk and return are linear. The higher return you want, the higher the risk will be. There is no getting around it. If there is an investment that promises high return and low risk, it is almost certainly a fraud; otherwise, everybody would be already rich by now.
 
 ### What to invest in?
 
-1. Where you live right now, because that will affect your tax residency and strategy
-2. How much risk can you stomach, i.e.Depends on the time horizon based on above points.
+After you understtand
 
-In the next part, I will tell you about how I do investing myself as an Indonesian, that aligns with my own specific goals and circumstances.
+1. Where you live right now because that will affect your tax residency and optimal investment strategy. I cannot go into details here because every country has different tax laws that it's impossible to go through. Still, in the next part, I will explain how I invest as an Indonesian living in Japan.
+2. How much risk can you stomach, i.e., Depends on the time horizon based on the above points.
+
+# Asset allocation.
